@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+
+.thumb {
+  max-width: 400px;
+  max-height: 300px;
+}
+
+.results-heading {
+  display: none;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.videoTitle {
+  font-size: 20px;
+}
